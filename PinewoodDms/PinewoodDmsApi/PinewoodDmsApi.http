@@ -1,0 +1,6 @@
+@PinewoodDmsApi_HostAddress = http://localhost:5139
+
+GET {{PinewoodDmsApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
